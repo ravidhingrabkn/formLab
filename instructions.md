@@ -1,7 +1,3 @@
-# Summary
-
-In this exercise, you’ll create a table booking form for the Little Lemon website. The form will contain four fields; email address, date of booking, number of people and a checkbox to confirm agreement with the cancellation policy. The form will also have a submit button.
-
 # Instructions
 
 **Step 1:** First add a form element to the main element of the HTML document.
@@ -39,7 +35,3 @@ Set its type attribute to submit.
 **Note** The date picker element is not supported in the Live Preview.
 
 **Step 13:** Click the checkbox and then click the Book Now button. Note the result.
-
-## Tips
-
- * Refer to your cheat sheets and glossary from previous lessons.
